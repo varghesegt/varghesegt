@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F76C6C&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Java+%2B+DSA+Practitioner;Learning+AI%2C+System+Design%2C+SEO;Building+Real-world+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F76C6C&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Java+%2B+DSA+Practitioner;Exploring+AI%2C+OpenAI%2C+SEO;Deploying+with+Vercel+%26+Netlify" alt="Typing SVG" />
 </p>
 
 ---
@@ -29,7 +29,13 @@
 ### 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,java,py,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,java,git,github,figma,vercel,netlify" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST API-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
 ---
@@ -56,8 +62,6 @@
     <img src="https://leetcard.jacoblin.cool/varghese_gt?theme=dark&font=baloo" alt="LeetCode Stats" />
   </a>
 </p>
-
-
 
 ---
 
