@@ -1,4 +1,5 @@
-## Hi there 👋
+[![Leetcode Stats](https://leetcard.jacoblin.cool/varghese_gt?theme=light&font=baloo)](https://leetcode.com/u/varghese_gt/)
+
 
 <!--
 **varghesegt/varghesegt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
