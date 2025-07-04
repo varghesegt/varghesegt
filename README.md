@@ -21,7 +21,7 @@
   🚀 Dreaming Big: Crack top product-based companies with 40+ LPA <br/>
   📬 Connect with me on 
   <a href="https://www.linkedin.com/in/varghesegt">LinkedIn</a> |
-  <a href="https://github.com/varghesegth">GitHub</a>
+  <a href="https://github.com/varghesegt">GitHub</a>
 </p>
 
 ---
@@ -45,7 +45,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varghesegt&layout=compact&theme=tokyonight" height="130"/>
 </p>
 
-
 ---
 
 ### ⚔️ DSA Profiles
@@ -62,7 +61,7 @@
 
 <p align="center">
   <a href="https://www.geeksforgeeks.org/user/varghese_gt/">
-    <img src="https://github-readme-stats.vercel.app/api?username=varghesegt&title_color=0F9D58&text_color=333&icon_color=0F9D58&hide_border=true&hide=prs,issues,contribs&custom_title=GeeksforGeeks+Summary&show_icons=true" alt="GFG Stats" />
+    <img src="https://raw.githubusercontent.com/varghesegt/varghesegt/main/assets/gfg-stats.png" alt="GFG Stats" width="600"/>
   </a>
 </p>
 
@@ -75,7 +74,7 @@
 ### 📍 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/varghesegth"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/varghesegt"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/varghesegt"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://leetcode.com/u/varghese_gt/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="https://www.geeksforgeeks.org/user/varghese_gt/"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
