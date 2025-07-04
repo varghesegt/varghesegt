@@ -49,15 +49,19 @@
 
 ### ⚔️ DSA Profiles
 
+#### 📘 LeetCode
+
 <p align="center">
   <a href="https://leetcode.com/u/varghese_gt/">
     <img src="https://leetcard.jacoblin.cool/varghese_gt?theme=dark&font=baloo" alt="LeetCode Stats" />
   </a>
 </p>
 
+#### 📗 GeeksforGeeks
+
 <p align="center">
   <a href="https://www.geeksforgeeks.org/user/varghese_gt/">
-    <img src="https://img.shields.io/badge/GFG-varghese__gt-green?style=for-the-badge&logo=geeksforgeeks" alt="GFG Profile" />
+    <img src="https://github-readme-stats.vercel.app/api?username=varghesegt&title_color=0F9D58&text_color=333&icon_color=0F9D58&hide_border=true&hide=prs,issues,contribs&custom_title=GeeksforGeeks+Summary&show_icons=true" alt="GFG Stats" />
   </a>
 </p>
 
@@ -74,12 +78,4 @@
   <a href="https://www.linkedin.com/in/varghesegt"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://leetcode.com/u/varghese_gt/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="https://www.geeksforgeeks.org/user/varghese_gt/"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-</p>
-
----
-
-### 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/varghesegth/varghesegth/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
