@@ -7,11 +7,11 @@
 ---
 
 ### 🧠 About Me
-- 🎓 Currently pursuing Mechanical Engineering @ MCE, Trichy  
+- 🎓 Currently pursuing Mechanical Engineering @ KRCE, Trichy  
 - 💻 I love building full-stack applications and solving real-world problems  
 - 🧩 Practicing DSA on LeetCode & GFG to strengthen problem-solving  
-- 🎯 Goal: Crack 40 LPA tech roles & top product companies  
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/varghesegt) | [GitHub](https://github.com/varghesegth)
+- 🎯 Goal: Crack tech roles & top product companies  
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/varghesegt) | [GitHub](https://github.com/varghesegt)
 
 ---
 
