@@ -57,17 +57,7 @@
   </a>
 </p>
 
-#### 📗 GeeksforGeeks
 
-<p align="center">
-  <a href="https://www.geeksforgeeks.org/user/varghese_gt/">
-    <img src="https://raw.githubusercontent.com/varghesegt/varghesegt/main/assets/gfg-stats.png" alt="GFG Stats" width="600"/>
-  </a>
-</p>
-
-<p align="center">
-  🚀 Solved <strong>170+ problems</strong> on GFG | <strong>Coding Score: 550+</strong> | <strong>Top 5% Rank</strong>
-</p>
 
 ---
 
