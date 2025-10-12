@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#ff6600;">Varghese G T</span></h1>
 
 <p align="center">
-  <em>A passionate <strong>Full Stack Developer</strong> 🚀 | <strong>DSA Enthusiast</strong> ⚔️ | Exploring <strong>AI, SEO & System Design</strong> 💡</em>
+  <em>A passionate <strong>Full Stack Developer</strong> 🚀| Exploring <strong>AI, SEO & System Design</strong> 💡</em>
 </p>
 
 ---
@@ -35,7 +35,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Framer Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST API-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
 ---
@@ -52,16 +51,6 @@
 </p>
 
 ---
-
-### ⚔️ DSA Profiles
-
-#### 📘 LeetCode
-
-<p align="center">
-  <a href="https://leetcode.com/u/varghese_gt/">
-    <img src="https://leetcard.jacoblin.cool/varghese_gt?theme=dark&font=baloo" alt="LeetCode Stats" />
-  </a>
-</p>
 
 ---
 
