@@ -18,7 +18,6 @@
   🎓 Pursuing Mechanical Engineering @ <strong>KRCE, Trichy</strong> <br/>
   💻 Love building scalable full-stack apps & solving real-world tech problems <br/>
   🧩 Solving Data Structures & Algorithms daily on <strong>LeetCode</strong> and <strong>GFG</strong> <br/>
-  🚀 Dreaming Big: Crack top product-based companies with 40+ LPA <br/>
   📬 Connect with me on 
   <a href="https://www.linkedin.com/in/varghesegt">LinkedIn</a> |
   <a href="https://github.com/varghesegt">GitHub</a>
