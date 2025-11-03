@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#ff6600;">Varghese G T</span></h1>
+<h1 align="center">Hi, I'm <span style="color:#ff6600;">Varghese G T</span></h1>
 
 <p align="center">
   <em>A passionate <strong>Full Stack Web Developer</strong> 🚀 | Exploring <strong>AI, ML, SEO & System Design</strong> 💡</em>
@@ -55,5 +55,4 @@
   <a href="https://github.com/varghesegt"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/varghesegt"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://leetcode.com/u/varghese_gt/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://www.geeksforgeeks.org/user/varghese_gt/"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
 </p>
