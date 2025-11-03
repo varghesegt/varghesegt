@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#ff6600;">Varghese G T</span></h1>
 
 <p align="center">
-  <em>A passionate <strong>Full Stack Developer</strong> 🚀| Exploring <strong>AI, SEO & System Design</strong> 💡</em>
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F76C6C&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Java+%2B+DSA+Practitioner;Exploring+AI%2C+OpenAI%2C+SEO;Deploying+with+Vercel+%26+Netlify" alt="Typing SVG" />
+  <em>A passionate <strong>Full Stack Web Developer</strong> 🚀 | Exploring <strong>AI, ML, SEO & System Design</strong> 💡</em>
 </p>
 
 ---
@@ -15,12 +9,14 @@
 ### 🧠 About Me
 
 <p align="center">
-  🎓 Pursuing Mechanical Engineering @ <strong>KRCE, Trichy</strong> <br/>
-  💻 Love building scalable full-stack apps & solving real-world tech problems <br/>
-  🧩 Solving Data Structures & Algorithms daily on <strong>LeetCode</strong> and <strong>GFG</strong> <br/>
-  📬 Connect with me on 
-  <a href="https://www.linkedin.com/in/varghesegt">LinkedIn</a> |
-  <a href="https://github.com/varghesegt">GitHub</a>
+  🎓 Pursuing <strong>Mechanical Engineering</strong> at <strong>KRCE, Trichy</strong> <br/>
+  💻 Building scalable full-stack web apps with modern technologies (React, Node.js, TypeScript, MongoDB) <br/>
+  🤖 Exploring <strong>Artificial Intelligence</strong>, <strong>Machine Learning</strong> & <strong>OpenAI Integrations</strong> <br/>
+  🧩 Practicing <strong>Data Structures & Algorithms</strong> on <strong>LeetCode</strong> & <strong>GeeksforGeeks</strong> <br/>
+  📚 Passionate about <strong>Product Management</strong> and <strong>Entrepreneurship</strong> <br/>
+  🌐 Connect with me on 
+  <a href="https://www.linkedin.com/in/varghesegt" target="_blank">LinkedIn</a> |
+  <a href="https://github.com/varghesegt" target="_blank">GitHub</a>
 </p>
 
 ---
@@ -28,12 +24,14 @@
 ### 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,java,git,github,figma,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,java,git,github,figma,vercel,netlify" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Framer Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ---
@@ -48,8 +46,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varghesegt&layout=compact&theme=tokyonight" height="130"/>
 </p>
-
----
 
 ---
 
