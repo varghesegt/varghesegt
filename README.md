@@ -6,7 +6,7 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
 <p align="center">
   Pursuing <strong>Mechanical Engineering</strong> at <strong>KRCE, Trichy</strong> <br/>
@@ -21,7 +21,7 @@
 
 ---
 
-### 💻 Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,java,git,github,figma,vercel,netlify" />
@@ -36,7 +36,7 @@
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VargheseGT&show_icons=true&theme=tokyonight" height="160" />
@@ -50,7 +50,7 @@
 
 ---
 
-### 🌐 Connect with Me
+### Connect with Me
 
 <p align="center">
   <a href="https://github.com/varghesegt"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
