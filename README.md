@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm <span style="color:#ff6600;">Varghese G T</span></h1>
 
 <p align="center">
-  <em>A passionate <strong>Full Stack Web Developer</strong> 🚀 | Exploring <strong>AI, ML, SEO & System Design</strong> 💡</em>
+  <em>A passionate <strong>Full Stack Web Developer</strong> | Exploring <strong>AI, ML, SEO & System Design</strong></em>
 </p>
 
 ---
@@ -9,12 +9,12 @@
 ### 🧠 About Me
 
 <p align="center">
-  🎓 Pursuing <strong>Mechanical Engineering</strong> at <strong>KRCE, Trichy</strong> <br/>
-  💻 Building scalable full-stack web apps with modern technologies (React, Node.js, TypeScript, MongoDB) <br/>
-  🤖 Exploring <strong>Artificial Intelligence</strong>, <strong>Machine Learning</strong> & <strong>OpenAI Integrations</strong> <br/>
-  🧩 Practicing <strong>Data Structures & Algorithms</strong> on <strong>LeetCode</strong> & <strong>GeeksforGeeks</strong> <br/>
-  📚 Passionate about <strong>Product Management</strong> and <strong>Entrepreneurship</strong> <br/>
-  🌐 Connect with me on 
+  Pursuing <strong>Mechanical Engineering</strong> at <strong>KRCE, Trichy</strong> <br/>
+  Building scalable full-stack web applications using React, Next.js, Node.js, TypeScript, and MongoDB <br/>
+  Exploring <strong>Artificial Intelligence</strong>, <strong>Machine Learning</strong>, and <strong>OpenAI Integrations</strong> <br/>
+  Practicing <strong>Data Structures & Algorithms</strong> on <strong>LeetCode</strong> and <strong>GeeksforGeeks</strong> <br/>
+  Passionate about <strong>Product Management</strong> and <strong>Entrepreneurship</strong> <br/>
+  Connect with me on 
   <a href="https://www.linkedin.com/in/varghesegt" target="_blank">LinkedIn</a> |
   <a href="https://github.com/varghesegt" target="_blank">GitHub</a>
 </p>
@@ -36,7 +36,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=varghesegt&show_icons=true&theme=tokyonight" height="160" />
@@ -49,7 +49,7 @@
 
 ---
 
-### 📍 Let's Connect
+### 🌐 Connect with Me
 
 <p align="center">
   <a href="https://github.com/varghesegt"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
