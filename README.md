@@ -40,7 +40,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=varghesegt&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.vercel.app?user=varghesegt&theme=tokyonight&hide_border=false" height="160" />
+  <img src="https://streak-stats.demolab.com?user=varghesegt&theme=tokyonight&hide_border=false" height="160" />
 </p>
 
 <p align="center">
