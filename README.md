@@ -18,8 +18,8 @@
 - 🧠 Focused on **Backend Engineering, System Design & Distributed Systems**
 - ⚙️ Building real-world applications using **React, Next.js, Node.js & TypeScript**
 - 🚀 Experienced with **scalable APIs, databases, and backend workflows**
-- 🤖 Exploring **AI / LLM integrations** (OpenAI, Gemini) in production systems
-- 📚 Actively practicing **Data Structures & Algorithms** (Python) on LeetCode
+- 🤖 Exploring **AI / LLM integrations** (OpenAI, Gemini)
+- 📚 Practicing **Data Structures & Algorithms** (Python) on LeetCode
 - 💡 Passionate about **product thinking, startups, and engineering ownership**
 
 ---
@@ -51,27 +51,43 @@
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20Gemini-1A73E8?style=for-the-badge&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Render-4F46E5?style=for-the-badge&logo=render&logoColor=white"/>
 </p>
+
+---
+
+## 🚀 Deployment & Hosting
+
+<p>
+  <img src="https://img.shields.io/badge/Render-4F46E5?style=for-the-badge&logo=render&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
+
+- Backend APIs deployed on **Render**
+- Frontend & edge deployments using **Vercel**
+- Cloud infrastructure & services on **AWS**
 
 ---
 
 ## 📊 GitHub Stats
 
+> ⚠️ GitHub API is rate-limited.  
+> The following setup is the **most stable public configuration**.
+
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=varghesegt&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" 
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=varghesegt&show_icons=true&theme=tokyonight&hide_border=true"
     height="165"
   />
-  <img 
-    src="https://streak-stats.demolab.com?user=varghesegt&theme=tokyonight&hide_border=true&cache_seconds=1800" 
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=varghesegt&theme=tokyonight&hide_border=true"
     height="165"
   />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=varghesegt&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" 
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=varghesegt&layout=compact&theme=tokyonight&hide_border=true"
     height="140"
   />
 </p>
@@ -81,7 +97,9 @@
 ## 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/varghese_gt?theme=dark&font=Montserrat&ext=contest" />
+  <img
+    src="https://leetcard.jacoblin.cool/varghese_gt?theme=dark&font=Montserrat&ext=contest"
+  />
 </p>
 
 ---
