@@ -27,30 +27,31 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages & Core
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=python,ts,js,sql" />
 </p>
 
 ### 🌐 Frontend
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
 </p>
 
 ### ⚙️ Backend & Databases
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mongodb,redis" />
 </p>
 
 ### ☁️ DevOps & Cloud
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=docker,git,github,aws,vercel,render" />
 </p>
 
 ### 🤖 AI & Motion
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20Gemini-1A73E8?style=for-the-badge&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-4F46E5?style=for-the-badge&logo=render&logoColor=white"/>
 </p>
 
 ---
@@ -58,12 +59,21 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varghesegt&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=varghesegt&theme=tokyonight&hide_border=true" height="165"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=varghesegt&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" 
+    height="165"
+  />
+  <img 
+    src="https://streak-stats.demolab.com?user=varghesegt&theme=tokyonight&hide_border=true&cache_seconds=1800" 
+    height="165"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varghesegt&layout=compact&theme=tokyonight&hide_border=true" height="140"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=varghesegt&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" 
+    height="140"
+  />
 </p>
 
 ---
